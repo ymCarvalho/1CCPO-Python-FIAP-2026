@@ -8,7 +8,7 @@ dia = input("Digite seu dia de nascimento: ")
 mes = input("Digite seu mês de nascimento: ")
 ano = input("Digite seu ano de nascimento: ")
 print(f"Sua data de nascimento é: {dia}/{mes}/{ano}")
-
+print("AAAAAAAAAAAA")
 
 #3
 num1 = int(input("Digite o primeiro número: "))
